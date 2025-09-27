@@ -21,3 +21,8 @@ This project allows users to record their screen directly from the browser and s
 ---
 
 ## 📂 Project Structure
+Screen-Recording/
+│── screen.html # Main HTML file
+│── screen.css # Stylesheet
+│── screen.js # JavaScript functionality
+│── README.md # Documentation
